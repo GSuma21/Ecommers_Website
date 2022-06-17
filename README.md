@@ -16,10 +16,15 @@ The page will reload when you make changes.
 # Details about Assignment
 
 -Mern shopping cart
+
    -Home page
+   
    -cart
+   
    -website is responnsive
+   
    -hamburgur menu
+   
    -used mongoDB atlas for backend
 
 -Video Demo of Assignment
